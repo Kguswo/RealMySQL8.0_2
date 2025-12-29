@@ -51,6 +51,14 @@ Deep Dive into Real My SQL 8.0(2)
     - 민우: [파티션 - MySQL 파티션의 종류](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/yukminwoo/week_06/13.3%20%ED%8C%8C%ED%8B%B0%EC%85%98%20-%20MySQL%20%ED%8C%8C%ED%8B%B0%EC%85%98%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
     - 현재: [파티셔닝이란](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/kimhyeonjae/6%EC%A3%BC%EC%B0%A8.%20%ED%8C%8C%ED%8B%B0%EC%85%98.md)
 
+#### 6주차(2025.12.26 ~ 2025.12.29)
+- **범위** 356p ~ 408p (TEXT와 BLOB)
+- **세미나**
+    - 장우: [어떤 파티셔닝을 선택해야할까](https://github.com/BackEndDeepDive/RealMySQL8.0_2/tree/main/choijangwoo/week_7)
+    - 민우: [데이터 타입 - 날짜와 시간](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/yukminwoo/week-07/15.3%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85%20-%20%EB%82%A0%EC%A7%9C%EC%99%80%20%EC%8B%9C%EA%B0%84.md)
+    - 현재: [TINYINT](https://github.com/BackEndDeepDive/RealMySQL8.0_2/blob/main/kimhyeonjae/7%EC%A3%BC%EC%B0%A8.%20TINYINT.md)
+
+
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
     - 브랜치는 영어(소문자)로 설정
